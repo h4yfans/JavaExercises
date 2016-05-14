@@ -20,7 +20,7 @@ public class amras {
         fiveago = age -5;
         fivelater = age + 5;
 
-        
+
         System.out.println("Did you know that in five years you will be " + fivelater + " years old? \nAnd five years ago you were " +fiveago  + "! Imagine that!");
 
 
